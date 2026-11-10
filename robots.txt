@@ -4,4 +4,5 @@ Allow: /
 User-agent: Yeti
 Allow: /
 
-Sitemap: https://gongae.kr/sitemap.xml
+# 이 페이지의 원본(canonical)은 https://koips.org/foi/
+Sitemap: https://koips.org/sitemap.xml
